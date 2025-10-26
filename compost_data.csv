@@ -1,0 +1,11 @@
+Name,Method,Location,Date,Weight_lb
+John,Pickup,Austin,2025-10-24,5
+Carl,Pickup,Austin,2025-10-24,8
+Tom,Pickup,Austin,2025-10-24,3
+Hank,Drop-off,Austin,2025-10-25,6
+Henit,Drop-off,Austin,2025-10-25,7
+Joe,Drop-off,Austin,2025-10-26,9
+Tyler,Drop-off,Austin,2025-10-27,3
+Thomas,Drop-off,Austin,2025-10-27,2
+Jonah,Pickup,Austin,2025-10-27,10
+Bao,Pickup,Austin,2025-10-28,13
